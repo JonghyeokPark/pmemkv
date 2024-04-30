@@ -13,6 +13,7 @@
 #include <stdexcept>
 #include <string>
 #include <utility>
+#include <cstdint>
 
 #include "libpmemkv.h"
 #include <libpmemobj/pool_base.h>
